@@ -22,7 +22,7 @@
 
   ### Nihilist Me
 
-  ![image](Gif/NihilistMe.gif)
+  ![Game Preview](GIF/NihilistMe.gif)
 
   **Logical Fallacy Debate Simulator**
 
@@ -42,7 +42,7 @@
 
   ### Carccident
 
-  ![image](Gif/Carccident.gif)
+  ![Game Preview](GIF/Carccident.gif)
 
   **Traffic Light Controller**
 
@@ -63,7 +63,7 @@
 
   ### Butt Pressure
 
-  ![image](Gif/ButtPressure.gif)
+  ![Game Preview](GIF/ButtPressure.gif)
 
   **Time-Limited Narrative Game**
 
@@ -82,7 +82,7 @@
 
   ### Aspull
 
-  ![image](Gif/Aspull.gif)
+  ![Game Preview](GIF/Aspull.gif)
 
   **Snake-Like Arcade Game**
 
@@ -103,7 +103,7 @@
 
   ### Room For One More
 
-  ![image](Gif/RoomForOneMore.gif)
+  ![Game Preview](GIF/RoomForOneMore.gif)
 
   **Roguelike Furniture Management**
 
@@ -122,7 +122,7 @@
 
   ### Viles W/ Smiles
 
-  ![image](Gif/VilesWSmiles.gif)
+  ![Game Preview](GIF/VilesWSmiles.gif)
 
   **Cozy Drink Making Game**
 
@@ -147,7 +147,7 @@
 
   ### Pixel World's Fishing Bot
 
-  ![image](Gif/Fishbot.jpg)
+  ![image](GIF/Fishbot.jpg)
 
   **Automated Fishing Script**
 
@@ -164,7 +164,7 @@
 
   ### Monkey Art
 
-  ![image](Gif/MonkeyArt.gif)
+  ![Game Preview](GIF/MonkeyArt.gif)
 
   **Pixel Art Workflow Toolkit**
 
