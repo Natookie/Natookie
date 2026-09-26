@@ -22,7 +22,9 @@
 
   ### Nihilist Me
 
-  ![Game Preview](GIF/NihilistMe.gif)
+  <video height="100%" autoplay loop muted playsinline>
+    <source src="Videos/NihilistMe.mp4" type="video/mp4">
+  </video>
 
   **Logical Fallacy Debate Simulator**
 
@@ -42,7 +44,9 @@
 
   ### Carccident
 
-  ![Game Preview](GIF/Carccident.gif)
+  <video height="100%" autoplay loop muted playsinline>
+    <source src="Videos/Carccident.mp4" type="video/mp4">
+  </video>
 
   **Traffic Light Controller**
 
@@ -63,7 +67,9 @@
 
   ### Butt Pressure
 
-  ![Game Preview](GIF/ButtPressure.gif)
+  <video height="100%" autoplay loop muted playsinline>
+    <source src="Videos/ButtPressure.mp4" type="video/mp4">
+  </video>
 
   **Time-Limited Narrative Game**
 
@@ -82,7 +88,9 @@
 
   ### Aspull
 
-  ![Game Preview](GIF/Aspull.gif)
+  <video height="100%" autoplay loop muted playsinline>
+    <source src="Videos/Aspull.mp4" type="video/mp4">
+  </video>
 
   **Snake-Like Arcade Game**
 
@@ -103,7 +111,9 @@
 
   ### Room For One More
 
-  ![Game Preview](GIF/RoomForOneMore.gif)
+  <video height="100%" autoplay loop muted playsinline>
+    <source src="Videos/RoomForOneMore.mp4" type="video/mp4">
+  </video>
 
   **Roguelike Furniture Management**
 
@@ -122,7 +132,9 @@
 
   ### Viles W/ Smiles
 
-  ![Game Preview](GIF/VilesWSmiles.gif)
+  <video height="100%" autoplay loop muted playsinline>
+    <source src="Videos/VilesWSmiles.mp4" type="video/mp4">
+  </video>
 
   **Cozy Drink Making Game**
 
@@ -147,7 +159,7 @@
 
   ### Pixel World's Fishing Bot
 
-  ![image](GIF/Fishbot.jpg)
+  ![image](GIF/Fishbot.png)
 
   **Automated Fishing Script**
 
@@ -164,7 +176,9 @@
 
   ### Monkey Art
 
-  ![Game Preview](GIF/MonkeyArt.gif)
+  <video height="100%" autoplay loop muted playsinline>
+    <source src="Videos/MonkeyArt.mp4" type="video/mp4">
+  </video>
 
   **Pixel Art Workflow Toolkit**
 
